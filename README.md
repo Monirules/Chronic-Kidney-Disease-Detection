@@ -20,7 +20,7 @@ XGBoost and CatBoost achieved the highest accuracy of 99%.
 
 ## Deep Learning Models
 
-We also explored deep learning models for this project:
+We also explored Deep Learning models:
 
 1. **Artificial Neural Network (ANN)**
 2. **Hybrid Model (LSTM + CNN)**
@@ -35,16 +35,12 @@ ANN achieved the highest accuracy among deep learning models with 99%.
 We used Explainable AI (XAI) techniques to interpret the models:
 
 1. **SHAP (SHapley Additive exPlanations)**
+
+![image](https://github.com/Monirul-Islam-Mahmud/Chronic-Kidney-Disease-Detection/assets/59494761/43197648-bada-46a6-a8ce-96cda5b6c2af)
+
 2. **LIME (Local Interpretable Model-agnostic Explanations)**
+
 ![image](https://github.com/Monirul-Islam-Mahmud/Chronic-Kidney-Disease-Detection/assets/59494761/c12d20b9-afe0-4d7b-ac2f-94baefaa7169)
-
-## Project Structure
-
-- `data/`: Contains the dataset.
-- `notebooks/`: Jupyter notebooks for data exploration, model training, and interpretation.
-- `src/`: Source code for the models.
-- `images/`: Visualizations and plots.
-
 
 
 
