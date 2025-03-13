@@ -1,6 +1,8 @@
 
 # Chronic Kidney Disease Detection with XAI
 
+![image](https://github.com/user-attachments/assets/67d55f0e-16bf-487d-a464-13f548a0ec2c)
+
 This project focuses on predicting chronic kidney disease using various machine learning and deep learning models. The dataset contains demographic, credit application specific, credit history, collateral, and financial attributes.
 
 ## Machine Learning Models
